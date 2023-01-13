@@ -1,0 +1,14 @@
+{
+  "response": [
+    {
+      "datetime": 1673613953,
+      "size": 1250784862,
+      "filehash": "d7f8fa03350854d4685879afdfddd889",
+      "filename": "lineage-20.0-20230113-UNOFFICIAL-RMX3360.zip",
+      "id": "812b232df046ac4b2e93fac762045715f35fc8c82ba6e4787c8c09c765e6efdc",
+      "romtype": "unofficial",
+      "version": "20.0",
+      "url": "https://github.com/pjgowtham/android_device_oplus_RMX3360/releases/download/lineage-20.0-20230113-UNOFFICIAL-RMX3360/lineage-20.0-20230113-UNOFFICIAL-RMX3360.zip"
+    }
+  ]
+}
