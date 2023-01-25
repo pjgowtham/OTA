@@ -1,14 +1,14 @@
 {
   "response": [
     {
-      "datetime": 1674003600,
-      "size": 1274301366,
-      "filehash": "23b8e3ff33f075aa528cda45408b0483",
+      "datetime": 1674550286,
+      "size": 1274259012,
+      "filehash": "c429fcee979b8fa202a12e15d2023d8b",
       "filename": "lineage-20.0-20230119-UNOFFICIAL-RMX3360.zip",
-      "id": "72dfb448cf5292670c9b22e41a9c3f02810c0890d5de1846384cfd6a61271e9f",
+      "id": "5d9b048ab683a523814acf5e76281873fc8179c0e52f3a3c5db5f6c2667517e2",
       "romtype": "unofficial",
       "version": "20.0",
-      "url": "https://github.com/pjgowtham/android_device_oplus_RMX3360/releases/download/lineage-20.0-20230119-UNOFFICIAL-RMX3360/lineage-20.0-20230119-UNOFFICIAL-RMX3360.zip"
+      "url": "https://github.com/pjgowtham/android_device_oplus_RMX3360/releases/download/lineage-20.0-20230125-UNOFFICIAL-RMX3360/lineage-20.0-20230125-UNOFFICIAL-RMX3360.zip"
     }
   ]
 }
